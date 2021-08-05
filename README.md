@@ -1,4 +1,5 @@
 # Group_Music_Player!
+#Pls open master branch
 1) Create a room
 ![Screenshot (508)](https://user-images.githubusercontent.com/59426117/128330538-6cddfb5b-7737-477a-beca-e2dc63236c6a.png)
 2) Login to spotify
